@@ -5,15 +5,15 @@
       "imports": []
     },
     "js/dashboard/api/index.js": {
-      "bytes": 534,
+      "bytes": 522,
       "imports": []
     },
     "js/utils/dataFetcher.js": {
-      "bytes": 884,
+      "bytes": 879,
       "imports": []
     },
     "js/dashboard/events/EventManager.js": {
-      "bytes": 1417,
+      "bytes": 1504,
       "imports": [
         {
           "path": "js/dashboard/api/index.js",
@@ -47,7 +47,7 @@
       ]
     },
     "_snowpack/pkg/ejs.js": {
-      "bytes": 37787,
+      "bytes": 38782,
       "imports": []
     },
     "js/utils/renderTemplate.js": {
@@ -123,7 +123,7 @@
       "imports": []
     },
     "js/dashboard/widgets/employee/index.js": {
-      "bytes": 1727,
+      "bytes": 1937,
       "imports": [
         {
           "path": "js/utils/renderTemplate.js",
@@ -144,7 +144,7 @@
       ]
     },
     "js/dashboard/display-panel/index.js": {
-      "bytes": 975,
+      "bytes": 967,
       "imports": [
         {
           "path": "js/dashboard/widgets/manager/index.js",
@@ -157,7 +157,7 @@
       ]
     },
     "js/dashboard/index.js": {
-      "bytes": 784,
+      "bytes": 770,
       "imports": [
         {
           "path": "js/dashboard/api/index.js",
@@ -199,13 +199,13 @@
       "entryPoint": "js/dashboard/index.js",
       "inputs": {
         "js/dashboard/api/index.js": {
-          "bytesInOutput": 289
+          "bytesInOutput": 286
         },
         "js/utils/dataFetcher.js": {
-          "bytesInOutput": 376
+          "bytesInOutput": 361
         },
         "js/dashboard/events/EventManager.js": {
-          "bytesInOutput": 695
+          "bytesInOutput": 674
         },
         "js/dashboard/sidebar/sideBarTemplates.js": {
           "bytesInOutput": 124
@@ -217,7 +217,7 @@
           "bytesInOutput": 36
         },
         "_snowpack/pkg/ejs.js": {
-          "bytesInOutput": 12949
+          "bytesInOutput": 13562
         },
         "js/utils/renderTemplate.js": {
           "bytesInOutput": 55
@@ -241,13 +241,13 @@
           "bytesInOutput": 861
         },
         "js/dashboard/display-panel/index.js": {
-          "bytesInOutput": 337
+          "bytesInOutput": 295
         },
         "js/dashboard/index.js": {
           "bytesInOutput": 263
         }
       },
-      "bytes": 18228
+      "bytes": 18760
     }
   }
 }
